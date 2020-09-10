@@ -1,4 +1,4 @@
-# Graph convolutional networks
+# Graph Neural networks
 
 ## 1. Introduction to Graph Neural Networks
 
@@ -10,9 +10,7 @@ Five groups:
 4. Graph generative networks 
 5. Graph spatial-temporal networks. 
 
-We will focus our attention to the first group: Graph convolutional networks
-
-## 2. Graph convolutional networks
+### 1.1. Graph convolutional networks
 
 
 
